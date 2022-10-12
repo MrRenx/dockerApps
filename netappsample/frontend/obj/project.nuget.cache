@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "z8aCR4lhVYnuwm4I8wTx+PGqCPogHN1+ZBJdnjDs1ake9APJQHIJ75vYMDO1pYnT9TlADwKIksUlNpt7D8tMVg==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\renribeiro\\Desktop\\dockerNet\\dockerApps\\netappsample\\frontend\\frontend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\renribeiro\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
